@@ -1,5 +1,5 @@
 
-### Em busca de conhecimento, com metas atrás de metas, o limite já não é mais o céu! 🚀<hr>
+### Sou o Lucas! meu propósito é aprender cada vez mais!! 📚<hr>
 
 ## Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
