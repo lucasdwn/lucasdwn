@@ -2,9 +2,9 @@
 # Bem vindo ao meu perfil  📚
 
 ## Contatos:
-<a href="https://www.linkedin.com/in/lucas-costa-a49a01219/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-<a href="https://www.instagram.com/_lucasfdc/" target="_blank"><img src='https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white'></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=lfcosta0804@gmail.com&su=&body=&bcc=&tf=cm" target="_blank"><img src='https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white'></a>
+<a href="https://www.linkedin.com/in/lucas-costa-a49a01219/" target='_blank'><img src='https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href="https://www.instagram.com/_lucasfdc/" target='_blank'><img src='https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white'></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=lfcosta0804@gmail.com&su=&body=&bcc=&tf=cm" target='_blank'><img src='https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white'></a>
 
 ![ddaiwon status](https://github-readme-stats.vercel.app/api?username=ddaiwon&show_icons=true&theme=dark)
 <hr>
