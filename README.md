@@ -1,3 +1,4 @@
+
 # Welcome my name is Lucas  👩🏾‍💻
 
 ## Contacts:
@@ -15,6 +16,7 @@
    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+   <img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white"/>
 </div><hr>
 
 ![ddaiwon status](https://github-readme-stats.vercel.app/api?username=lucasdwn&show_icons=true&theme=dark)
