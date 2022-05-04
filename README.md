@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/68930336/162159531-19a194a0-3e0c-4e09-b471-33cc6f316df1.png" width="200px">
 
-# Welcome my name is Lucas  👩🏾‍💻
+# Welcome my name is Lucas  👨🏾‍💻
 
 
 ## Contacts:
