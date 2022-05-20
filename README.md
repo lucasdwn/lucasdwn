@@ -23,6 +23,6 @@
    <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div><hr>
 
-![lucasdwn status](https://github-readme-stats.vercel.app/api?username=lucasdwn&show_icons=true&theme=dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lucasdwn?cardType=github&theme=react)](https://git.io/awesome-stats-card)
 <hr>
 
