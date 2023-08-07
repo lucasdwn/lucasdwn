@@ -2,7 +2,7 @@
           
 
 - 🧑 - Prazer meu nome é Lucas!
-- 📚 - Estou cursando Desenvolvimento de Software Multiplataforma - Fatec SJC.
+- 📚 - Estou cursando Desenvolvimento de Software Multiplataforma - Fatec JCR.
 
 ## Meus contatos:
 <a href="https://www.linkedin.com/in/lucas-costa-a49a01219/" target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
