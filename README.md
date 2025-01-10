@@ -1,5 +1,5 @@
 
-## Prazer, meu nome é Lucas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="auto" width="30">
+## Prazer, meu nome é Lucas! <img src="https://raw.githubusercontent.com/lucasdwn/lucasdwn/master/wave.gif" height="auto" width="30">
 ### Desenvolvedor Fullstack | Criando soluções completas em Back-End e Front-End
  
 Sou um desenvolvedor de software fullstack com experiência em .NET e Node.js no back-end, além de React e outras tecnologias no front-end. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para soluções inovadoras.
