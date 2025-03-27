@@ -4,7 +4,7 @@
  
 Sou um desenvolvedor de software fullstack com experiência em .NET e Node.js no back-end, além de React e outras tecnologias no front-end. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para soluções inovadoras.
 
-- 🏢 Desenvolvedor .NET Jr
+- 🏢 Software Developer
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma (5º semestre) na Fatec Jacareí
 - 🛠️ Tecnologias que utilizo: `.cs`, `.ts`, `.js`, `.py`, `.tsx`, `.jsx`, `.html`, `.css`, entre outras.
 - 💻 Experiência no desenvolvimento de APIs, interfaces intuitivas e soluções escaláveis.
